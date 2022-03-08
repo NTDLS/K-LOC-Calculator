@@ -16,7 +16,7 @@ namespace K_LOC_Calculator
 {
     public partial class FormMain : Form
     {
-        private string StandardTypes = "c,cpp,cs,h,xaml,htm,html,vb,tt,xml,sql,res,cmd,bat,ps1,config";
+        private string StandardTypes = "c,cpp,cs,h,xaml,htm,html,vb,tt,xml,sql,res,cmd,bat,ps1,config,json,js,php,py,jsp,pl,cfm,asp,aspx,xhtml,class,java,sh,bat,swift,vb";
 
 
         public FormMain()
